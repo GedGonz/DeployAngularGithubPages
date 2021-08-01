@@ -59,5 +59,7 @@ le mostrara la url y ya podrá acceder a ella para ver su app
 ### Nota
 GitHubPages dura al rededor de 30 segundos en aplicar los cambios y mostra la app, siga los pasaos a como se inidcan para que no resiva el 404 de github
 
+te dejo el link del proyecto del ejemplo: https://github.com/GedGonz/AppRickAndMorty
+
 Espero esto te ayude en tus implementaciones y pruebas. Saludos!!
 
